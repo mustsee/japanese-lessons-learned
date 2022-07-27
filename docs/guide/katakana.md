@@ -5,11 +5,11 @@ portions of the characters as a kind of shorthand.
 
 ## Table
 
-![Katakana table](./katakana/tableau-des-katakana.png)
+![Katakana table](./katakana/tableau-des-katakana-compressed.png)
 
 ## Tracing
 
-![Katakana trace table](./katakana/trace-des-katakana.png)
+![Katakana trace table](./katakana/trace-des-katakana-compressed.png)
  
 ## Source
 

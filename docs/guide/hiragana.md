@@ -7,11 +7,11 @@ in the writing of personnal communications and literature.
 
 ## Table
 
-![Hiragana table](./hiragana/tableau-des-hiragana.png)
+![Hiragana table](./hiragana/tableau-des-hiragana-compressed.png)
 
 ## Tracing
 
-![Hiragana trace table](./hiragana/trace-des-hiragana.png)
+![Hiragana trace table](./hiragana/trace-des-hiragana-compressed.png)
  
 ## Source
 
