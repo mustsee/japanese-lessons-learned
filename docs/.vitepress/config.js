@@ -1,5 +1,8 @@
 export default {
+  base: '/japanese-lessons-learned/', // Mandatory to deploy on github pages
   title: 'JLL',
+  description: 'Summarize what I learn overtime about the japanese language',
+  lang: 'en-GB',
 
   themeConfig: {
     nav: [
