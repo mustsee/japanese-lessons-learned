@@ -7,5 +7,8 @@ The dakuten, colloquially ten-ten, is a diacritic most often used in the Japanes
 ## Handakuten ゜
 The handakuten, colloquially maru (circle), is a diacritic used with the kana for syllables starting with h to indicate that they should instead be pronounced with p. 
 
-## Table
-![Accents table](./four-rules/accents.jpg)
+## Hiragana Table
+![Hiragana accents table](./four-rules/accents-hiragana.jpg)
+
+## Katakana Table
+![Katakana accents table](./four-rules/accents-katakana.jpg)
