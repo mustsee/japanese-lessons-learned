@@ -16,6 +16,13 @@ export default {
             { text: 'Hiragana', link: '/guide/hiragana' },
             { text: 'Katakana', link: '/guide/katakana' },
           ]
+        }, {
+          text: 'Les 4 règles',
+          items: [
+            { text: 'Les accents', link: '/guide/accents' },
+            { text: 'La pause', link: '/guide/pause' },
+            { text: 'Les allongements', link: '/guide/allongements' },
+          ]
         }]
       },
       { text: 'Sources', link: '/sources/' },
@@ -28,6 +35,14 @@ export default {
           { text: 'Overview', link: '/guide/overview' },
           { text: 'Hiragana', link: '/guide/hiragana' },
           { text: 'Katakana', link: '/guide/katakana' },
+        ]
+      }, {
+        text: 'Les 4 règles',
+        collapsible: true,
+        items: [
+          { text: 'Les accents', link: '/guide/accents' },
+          { text: 'La pause', link: '/guide/pause' },
+          { text: 'Les allongements', link: '/guide/allongements' },
         ]
       },
  
