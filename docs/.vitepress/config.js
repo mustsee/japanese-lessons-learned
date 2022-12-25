@@ -21,8 +21,8 @@ export default {
           items: [
             { text: 'Les accents', link: '/guide/accents' },
             { text: 'La pause', link: '/guide/pause' },
-            /* { text: 'Les allongements', link: '/guide/allongements' },
-            { text: 'Les combinaisons', link: '/guide/combinaisons' }, */
+            { text: 'Les allongements', link: '/guide/allongements' },
+            /* { text: 'Les combinaisons', link: '/guide/combinaisons' }, */
           ]
         }]
       },
@@ -43,8 +43,8 @@ export default {
         items: [
           { text: 'Les accents', link: '/guide/accents' },
           { text: 'La pause', link: '/guide/pause' },
-          /* { text: 'Les allongements', link: '/guide/allongements' },
-          { text: 'Les combinaisons', link: '/guide/combinaisons' }, */
+          { text: 'Les allongements', link: '/guide/allongements' },
+          /*{ text: 'Les combinaisons', link: '/guide/combinaisons' }, */
 
         ]
       },
