@@ -1,7 +1,7 @@
 # La particule の
 
 On va enrichir nos phrases avec des particules.  
-La première particlue que nous allons voir est celle de la possession,
+La première particule que nous allons voir est celle de la possession,
 elle indique le lien de possession entre deux mots,
 comme par exemple dans la phrase : Le chien de Julien.
 
