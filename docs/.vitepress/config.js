@@ -9,14 +9,16 @@ export default {
       { text: 'Guide', link: '/guide/overview' },
       {
         text: 'Lessons',
-        items: [{
+        items: [
+        {
           text: 'Writing',
           items: [
             { text: 'Overview', link: '/guide/overview' },
             { text: 'Hiragana', link: '/guide/hiragana' },
             { text: 'Katakana', link: '/guide/katakana' },
           ]
-        }, {
+        }, 
+        {
           text: 'Les 4 règles',
           items: [
             { text: 'Les accents', link: '/guide/accents' },
@@ -24,7 +26,18 @@ export default {
             { text: 'Les allongements', link: '/guide/allongements' },
             { text: 'Les combinaisons', link: '/guide/combinaisons' },
           ]
-        }]
+        },
+        { text: 'Grammaire',
+          items: [
+            { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' }
+          ]
+        },
+        { text: 'Vocabulaire',
+          items: [
+            { text: 'Premiers mots', link: '/guide/vocabulaire/vocabulaire-01' }
+          ]
+      }
+      ]
       },
       { text: 'Sources', link: '/sources/' },
     ],
@@ -47,7 +60,18 @@ export default {
           { text: 'Les combinaisons', link: '/guide/combinaisons' },
         ]
       },
- 
+      { text: 'Grammaire',
+        collapsible: true,
+        items: [
+          { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' }
+        ]
+      },
+      { text: 'Vocabulaire',
+        collapsible: true,
+        items: [
+          { text: 'Premiers mots', link: '/guide/vocabulaire/vocabulaire-01' }
+        ]
+      }
     ]
   }
 }
