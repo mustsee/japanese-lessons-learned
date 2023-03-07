@@ -29,7 +29,8 @@ export default {
         },
         { text: 'Grammaire',
           items: [
-            { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' }
+            { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' },
+            { text: 'La particule の', link: '/guide/grammaire/particule-の' }
           ]
         },
         { text: 'Vocabulaire',
@@ -63,7 +64,8 @@ export default {
       { text: 'Grammaire',
         collapsible: true,
         items: [
-          { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' }
+          { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' },
+          { text: 'La particule の', link: '/guide/grammaire/particule-の' }
         ]
       },
       { text: 'Vocabulaire',
