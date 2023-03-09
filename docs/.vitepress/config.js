@@ -31,12 +31,14 @@ export default {
           items: [
             { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' },
             { text: 'La particule の', link: '/guide/grammaire/particule-の' },
-            { text: 'La particule と', link: '/guide/grammaire/particule-と' }
+            { text: 'La particule と', link: '/guide/grammaire/particule-と' },
+            { text: 'La particule や', link: '/guide/grammaire/particule-や' },
+            { text: 'La particule は', link: '/guide/grammaire/particule-は' }
           ]
         },
         { text: 'Vocabulaire',
           items: [
-            { text: 'Premiers mots', link: '/guide/vocabulaire/vocabulaire-01' }
+            { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' }
           ]
       }
       ]
@@ -67,13 +69,15 @@ export default {
         items: [
           { text: 'La formation d\'une phrase', link: '/guide/grammaire/phrase' },
           { text: 'La particule の', link: '/guide/grammaire/particule-の' },
-          { text: 'La particule と', link: '/guide/grammaire/particule-と' }
+          { text: 'La particule と', link: '/guide/grammaire/particule-と' },
+          { text: 'La particule や', link: '/guide/grammaire/particule-や' },
+          { text: 'La particule は', link: '/guide/grammaire/particule-は' }
         ]
       },
       { text: 'Vocabulaire',
         collapsible: true,
         items: [
-          { text: 'Premiers mots', link: '/guide/vocabulaire/vocabulaire-01' }
+          { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' }
         ]
       }
     ]

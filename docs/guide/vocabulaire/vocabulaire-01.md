@@ -1,4 +1,6 @@
-# Premiers mots
+# Premiers kanji
+
+## Animaux
 
 <span style="font-size: 2em; margin-right: 1em;">犬</span> (いぬ - inu - chien)
 <details>
@@ -28,4 +30,38 @@
 <details>
 <summary>Click to toggle stroke order of 魚</summary>
 <img src="./poisson-sakana.png" /> 
+</details>
+
+## Je
+
+<span style="font-size: 2em; margin-right: 1em;">私</span> (わたし - watashi - je)
+<details>
+<summary>Click to toggle stroke order of 私</summary>
+<img src="./je-watashi.gif" width="52" height="52" /> 
+</details>
+
+## Verbes
+
+<span style="font-size: 2em; margin-right: 1em;">食べる</span> (たべる - taberu - manger - + deux okurigana)
+<details>
+<summary>Click to toggle stroke order of 食</summary>
+<img src="./manger-taberu.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">飲む</span> (のむ - nomu - boire)
+<details>
+<summary>Click to toggle stroke order of 飲</summary>
+<img src="./boire-nomu.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">見る</span> (みる - miru - regarder)
+<details>
+<summary>Click to toggle stroke order of 見</summary>
+<img src="./regarder-miru.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">聞く</span> (きく - kiku - écouter)
+<details>
+<summary>Click to toggle stroke order of 見</summary>
+<img src="./ecouter-kiku.gif" /> 
 </details>
