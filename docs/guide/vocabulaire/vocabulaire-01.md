@@ -32,6 +32,38 @@
 <img src="./poisson-sakana.png" /> 
 </details>
 
+## Premier mots (Vidéo de Julien Fontanier)
+
+<span style="font-size: 2em; margin-right: 1em;">人</span> (ひと - hito - personne)
+<details>
+<summary>Click to toggle stroke order of 人</summary>
+<img src="./personne-hito.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">男</span> (おとこ - otoko - homme)
+<details>
+<summary>Click to toggle stroke order of 男</summary>
+<img src="./homme-otoko.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">女</span> (おんな - onna - femme)
+<details>
+<summary>Click to toggle stroke order of 女</summary>
+<img src="./femme-onna.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">子</span> (こ - ko - enfant)
+<details>
+<summary>Click to toggle stroke order of 子</summary>
+<img src="./enfant-ko.gif" /> 
+</details>
+
+<span style="font-size: 2em; margin-right: 1em;">日</span> (ひ - hi - soleil)
+<details>
+<summary>Click to toggle stroke order of 日</summary>
+<img src="./soleil-hi.gif" /> 
+</details>
+
 ## Je
 
 <span style="font-size: 2em; margin-right: 1em;">私</span> (わたし - watashi - je)
