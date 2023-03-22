@@ -16,8 +16,8 @@ virgule, par exemple : Mario, Luigi et Peach
 Alors qu'en japonais on répète la particule と : マリオとルイージとピーチ
 
 マリオとルイージだ。Ce sont Mario et Luigi.  
-トマの犬とサラの馬だ。Ce sont le chien de Thomas et le chat de Sarah.  
-トマの犬と馬だ。Ce sont le chien et le chat de Thomas.  
+トマの犬とサラの馬だ。Ce sont le chien de Thomas et le cheval de Sarah.  
+トマの犬と猫だ。Ce sont le chien et le chat de Thomas.  
 マリオとピーチのスニカーだ。 Ce sont les baskets de Mario et de Peach.  
 
 ## *avec*

@@ -36,6 +36,11 @@ export default {
             { text: 'La particule は', link: '/guide/grammaire/particule-は' }
           ]
         },
+        { text: 'Les nombres',
+        items: [
+          { text: 'Les nombres japonais', link: '/guide/grammaire/nombres' },
+        ]
+      },
         { text: 'Vocabulaire',
           items: [
             { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' }
@@ -72,6 +77,11 @@ export default {
           { text: 'La particule と', link: '/guide/grammaire/particule-と' },
           { text: 'La particule や', link: '/guide/grammaire/particule-や' },
           { text: 'La particule は', link: '/guide/grammaire/particule-は' }
+        ]
+      },
+      { text: 'Les nombres',
+      items: [
+          { text: 'Les nombres japonais', link: '/guide/grammaire/nombres' },
         ]
       },
       { text: 'Vocabulaire',
