@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n,a as r}from"./app.870ea23c.js";const u=JSON.parse('{"title":"Les nombres japonais","description":"","frontmatter":{},"headers":[],"relativePath":"guide/grammaire/nombres.md"}'),l={name:"guide/grammaire/nombres.md"},a=r("",8),s=[a];function d(i,c,o,g,y,x){return n(),e("div",null,s)}var m=t(l,[["render",d]]);export{u as __pageData,m as default};
