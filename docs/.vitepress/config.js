@@ -39,6 +39,7 @@ export default {
         { text: 'Les nombres',
         items: [
           { text: 'Les nombres japonais', link: '/guide/grammaire/nombres' },
+          { text: "Compter jusqu'à 9999", link: '/guide/grammaire/nombres-1' },
         ]
       },
         { text: 'Vocabulaire',
@@ -82,6 +83,7 @@ export default {
       { text: 'Les nombres',
       items: [
           { text: 'Les nombres japonais', link: '/guide/grammaire/nombres' },
+          { text: "Compter jusqu'à 9999", link: '/guide/grammaire/nombres-1' },
         ]
       },
       { text: 'Vocabulaire',
