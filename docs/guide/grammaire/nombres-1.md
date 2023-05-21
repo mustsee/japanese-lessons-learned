@@ -26,7 +26,7 @@ Ci-dessous on retrouve quelques exemples :
 
 Il y a 5 particularités de prononciations. Comme on assemble des kanji en lecture sino-japonaise, il y a des règles particulières de l'accent et de la pause qui s'applique.
 
-|  nombre       |    kanji   |    lecture   | romaji |
+|  nombre       |    kanji   |    lecture   | rōmaji |
 |:-------:|:----------:|:------------:| :-----: |
 |    300    |    三百      |  サン**ビ**ャク   |  sanbyaku  |
 |    600    |    六百      |   ロ**ッピ**ャク  |  roppyaku  |

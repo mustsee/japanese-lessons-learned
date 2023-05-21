@@ -44,7 +44,8 @@ export default {
       },
         { text: 'Vocabulaire',
           items: [
-            { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' }
+            { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' },
+            { text: 'Les jours de la semaine et le système solaire', link: '/guide/vocabulaire/vocabulaire-02' }
           ]
       }
       ]
@@ -89,7 +90,8 @@ export default {
       { text: 'Vocabulaire',
         collapsible: true,
         items: [
-          { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' }
+          { text: 'Premiers kanji', link: '/guide/vocabulaire/vocabulaire-01' },
+          { text: 'Les jours de la semaine et le système solaire', link: '/guide/vocabulaire/vocabulaire-02' }
         ]
       }
     ]
