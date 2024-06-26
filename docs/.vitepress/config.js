@@ -33,7 +33,8 @@ export default {
             { text: 'La particule の', link: '/guide/grammaire/particule-の' },
             { text: 'La particule と', link: '/guide/grammaire/particule-と' },
             { text: 'La particule や', link: '/guide/grammaire/particule-や' },
-            { text: 'La particule は', link: '/guide/grammaire/particule-は' }
+            { text: 'La particule は', link: '/guide/grammaire/particule-は' },
+            { text: 'La particule に', link: '/guide/grammaire/particule-に' }
           ]
         },
         { text: 'Les nombres',
@@ -78,7 +79,8 @@ export default {
           { text: 'La particule の', link: '/guide/grammaire/particule-の' },
           { text: 'La particule と', link: '/guide/grammaire/particule-と' },
           { text: 'La particule や', link: '/guide/grammaire/particule-や' },
-          { text: 'La particule は', link: '/guide/grammaire/particule-は' }
+          { text: 'La particule は', link: '/guide/grammaire/particule-は' },
+          { text: 'La particule に', link: '/guide/grammaire/particule-に' }
         ]
       },
       { text: 'Les nombres',
